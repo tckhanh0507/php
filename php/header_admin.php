@@ -18,7 +18,7 @@
     <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center align-items-center mb-md-0">
         <a href="../customers/index.php" class="navbar-brand">
             <h3 class="px-5">
-                <i class="fas fa-shopping-basket"></i>Shopping Cart
+                <i class="fas fa-shopping-basket"></i>Shopping
             </h3>
         </a>
         <li><a href="../admin/index.php" class="nav-link px-2 text-secondary">ADMIN</a></li>
